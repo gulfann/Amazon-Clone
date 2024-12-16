@@ -1,3 +1,7 @@
+Amazon Clone
+
+This project is a clone of Amazon's website that replicates its user interface and basic functionalities. It is built using HTML and CSS.
+
 Features:
 
 Responsive Navigation Bar: Includes sections for search, cart, and user account.
